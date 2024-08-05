@@ -1,0 +1,6 @@
+@LogViewServer_HostAddress = http://localhost:5265
+
+GET {{LogViewServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

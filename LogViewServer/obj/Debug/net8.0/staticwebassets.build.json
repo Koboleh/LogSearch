@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Li6qTEqmUcPq8Gqtm6bkrjEVBfxwZ1aiBeOCa9N237c=",
+  "Source": "LogViewServer",
+  "BasePath": "_content/LogViewServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

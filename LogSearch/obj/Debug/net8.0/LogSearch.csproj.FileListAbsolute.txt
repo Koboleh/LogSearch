@@ -1,0 +1,14 @@
+C:\Users\malyn\source\repos\LogSearch\LogSearch\bin\Debug\net8.0\LogSearch.exe
+C:\Users\malyn\source\repos\LogSearch\LogSearch\bin\Debug\net8.0\LogSearch.deps.json
+C:\Users\malyn\source\repos\LogSearch\LogSearch\bin\Debug\net8.0\LogSearch.runtimeconfig.json
+C:\Users\malyn\source\repos\LogSearch\LogSearch\bin\Debug\net8.0\LogSearch.dll
+C:\Users\malyn\source\repos\LogSearch\LogSearch\bin\Debug\net8.0\LogSearch.pdb
+C:\Users\malyn\source\repos\LogSearch\LogSearch\obj\Debug\net8.0\LogSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malyn\source\repos\LogSearch\LogSearch\obj\Debug\net8.0\LogSearch.AssemblyInfoInputs.cache
+C:\Users\malyn\source\repos\LogSearch\LogSearch\obj\Debug\net8.0\LogSearch.AssemblyInfo.cs
+C:\Users\malyn\source\repos\LogSearch\LogSearch\obj\Debug\net8.0\LogSearch.csproj.CoreCompileInputs.cache
+C:\Users\malyn\source\repos\LogSearch\LogSearch\obj\Debug\net8.0\LogSearch.dll
+C:\Users\malyn\source\repos\LogSearch\LogSearch\obj\Debug\net8.0\refint\LogSearch.dll
+C:\Users\malyn\source\repos\LogSearch\LogSearch\obj\Debug\net8.0\LogSearch.pdb
+C:\Users\malyn\source\repos\LogSearch\LogSearch\obj\Debug\net8.0\LogSearch.genruntimeconfig.cache
+C:\Users\malyn\source\repos\LogSearch\LogSearch\obj\Debug\net8.0\ref\LogSearch.dll
